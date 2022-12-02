@@ -1,7 +1,7 @@
 ﻿#!/bin/sh
 
 # configs
-AUUID=cebb0e45-2636-42be-9913-657d0456e13f
+AUUID=0e43b39b-09fa-4efa-a645-8a368199ba1d
 CADDYIndexPage=https://github.com/WebDevSimplified/Spotify-Landing-Page-Redesign/archive/master.zip
 CONFIGCADDY=https://raw.githubusercontent.com/gtexw4657yt/huochegoo/master/etc/Caddyfile
 CONFIGXRAY=https://raw.githubusercontent.com/gtexw4657yt/huochegoo/master/etc/wry.json
