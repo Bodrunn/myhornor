@@ -9,7 +9,7 @@
         },
         "AUUID": {
             "description": "UUID的网站: https://www.uuidgenerator.net",
-            "value": "cebb0e45-2636-42be-9913-657d0456e13f"
+            "value": "0e43b39b-09fa-4efa-a645-8a368199ba1d"
         },
         "CADDYIndexPage": {
             "description": "自定义参考",
@@ -17,11 +17,11 @@
         },
         "CONFIGCADDY": {
             "description": "请勿修改",
-            "value": "https://raw.githubusercontent.com/gtexw4657yt/chechewuwu/master/etc/Caddyfile"
+            "value": "https://raw.githubusercontent.com/Bodrunn/myhornor/master/etc/Caddyfile"
         },
         "CONFIGXRAY": {
             "description": "请勿修改",
-            "value": "https://raw.githubusercontent.com/gtexw4657yt/chechewuwu/master/etc/wry.json"
+            "value": "https://raw.githubusercontent.com/Bodrunn/myhornor/master/etc/wry.json"
         },
         "ParameterSSENCYPT": {
             "description": "SS加密",
@@ -29,10 +29,10 @@
         },
         "StoreFiles": {
             "description": "自定义网络地址读取存储文件列表",
-            "value": "https://raw.githubusercontent.com/gtexw4657yt/chechewuwu/master/etc/StoreFiles"
+            "value": "https://raw.githubusercontent.com/Bodrunn/myhornor/master/etc/StoreFiles"
         }
     },
-    "website": "https://github.com/gtexw4657yt/chechewuwu",
-    "repository": "https://github.com/gtexw4657yt/chechewuwu",
+    "website": "https://github.com/Bodrunn/myhornor",
+    "repository": "https://github.com/Bodrunn/myhornor",
     "stack": "container"
 }
