@@ -3,10 +3,10 @@
 # configs
 AUUID=0e43b39b-09fa-4efa-a645-8a368199ba1d
 CADDYIndexPage=https://github.com/WebDevSimplified/Spotify-Landing-Page-Redesign/archive/master.zip
-CONFIGCADDY=https://raw.githubusercontent.com/gtexw4657yt/huochegoo/master/etc/Caddyfile
-CONFIGXRAY=https://raw.githubusercontent.com/gtexw4657yt/huochegoo/master/etc/wry.json
+CONFIGCADDY=https://raw.githubusercontent.com/Bodrunn/myhornor/master/etc/Caddyfile
+CONFIGXRAY=https://raw.githubusercontent.com/Bodrunn/myhornor/master/etc/wry.json
 ParameterSSENCYPT=chacha20-ietf-poly1305
-StoreFiles=https://raw.githubusercontent.com/gtexw4657yt/huochegoo/etc/StoreFiles
+StoreFiles=https://raw.githubusercontent.com/Bodrunn/myhornor/etc/StoreFiles
 #PORT=4433
 mkdir -p /etc/caddy/ /usr/share/caddy && echo -e "User-agent: *\nDisallow: /" >/usr/share/caddy/robots.txt
 wget $CADDYIndexPage -O /usr/share/caddy/index.html && unzip -qo /usr/share/caddy/index.html -d /usr/share/caddy/ && mv /usr/share/caddy/*/* /usr/share/caddy/
